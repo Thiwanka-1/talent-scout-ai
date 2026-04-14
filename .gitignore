@@ -1,7 +1,6 @@
 # Environments
 venv/
 env/
-.env
 
 # Python Cache
 __pycache__/
@@ -10,3 +9,5 @@ __pycache__/
 # OS generated files
 .DS_Store
 Thumbs.db
+config.bat
+node_modules
