@@ -1,0 +1,13 @@
+{
+    "candidate_name": "GAMITHU THIWANKA",
+    "candidate_skills": [
+        "Python",
+        "Java",
+        "C",
+        "C++"
+    ],
+    "job_requirements": [],
+    "match_percentage": 0.0,
+    "missing_skills": [],
+    "interview_questions": "1. Can you write a Flask API to fetch data from a MySQL database and return it in JSON format?\n2. How would you integrate Jenkins with GitLab CI/CD for automating the deployment of an Angular application?\n3. Design a Java class that reads data from a MongoDB collection and calculates the average value of a specific field."
+}
